@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="40dp"
+    android:height="40dp"
+    android:viewportWidth="40"
+    android:viewportHeight="40">
+    <!-- Rounded Crest Base -->
+    <path
+        android:fillColor="#09265B"
+        android:pathData="M8,4 L32,4 C34.2,4 36,5.8 36,8 L36,24 C36,31 29,36 20,38 C11,36 4,31 4,24 L4,8 C4,5.8 5.8,4 8,4 Z" />
+    <!-- Red Accent Crown -->
+    <path
+        android:fillColor="#E5232E"
+        android:pathData="M20,7 L23,10 L20,12 L17,10 Z" />
+    <!-- Stylized 'M' in White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11,28 L11,13 L15,13 L20,21 L25,13 L29,13 L29,28 L25.5,28 L25.5,17.5 L21.5,24 L18.5,24 L14.5,17.5 L14.5,28 Z" />
+    <!-- Red Center Node Dot -->
+    <path
+        android:fillColor="#E5232E"
+        android:pathData="M20,27 A1.5,1.5 0 1,1 19.9,27" />
+</vector>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Shield Border (Security & Trust) -->
+    <path
+        android:pathData="M54,23 L79,32 L79,56 C79,71 67.5,82.5 54,86 C40.5,82.5 29,71 29,56 L29,32 Z"
+        android:strokeColor="#0866D8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#220866D8" />
+
+    <!-- Red Top Accent Gem (MADLY Red #E5232E) -->
+    <path
+        android:pathData="M54,27 L61,33.5 L54,37.5 L47,33.5 Z"
+        android:fillColor="#E5232E" />
+
+    <!-- Bold Corporate 'M' Monogram (White #FFFFFF) -->
+    <path
+        android:pathData="M35,70 L35,39 L43,39 L54,55 L65,39 L73,39 L73,70 L66,70 L66,48 L56.5,62.5 L51.5,62.5 L42,48 L42,70 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Red Technology / Router / Signal Pulse (Accent Red #E5232E) -->
+    <path
+        android:pathData="M54,67 A3.5,3.5 0 1,1 53.9,67"
+        android:fillColor="#E5232E" />
+
+    <!-- Dynamic Speed / Service Slash in Red -->
+    <path
+        android:pathData="M51.5,62.5 L56.5,62.5 L54,58 Z"
+        android:fillColor="#E5232E" />
+
+</vector>

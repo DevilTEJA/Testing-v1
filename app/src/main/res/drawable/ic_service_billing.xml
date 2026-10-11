@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- POS Screen / Terminal Monitor -->
+    <path
+        android:fillColor="#EBF3FE"
+        android:pathData="M8,8 L40,8 C41.6,8 43,9.4 43,11 L43,30 C43,31.6 41.6,33 40,33 L8,33 C6.4,33 5,31.6 5,30 L5,11 C5,9.4 6.4,8 8,8 Z" />
+    <path
+        android:strokeColor="#09265B"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M8,8 L40,8 C41.6,8 43,9.4 43,11 L43,30 C43,31.6 41.6,33 40,33 L8,33 C6.4,33 5,31.6 5,30 L5,11 C5,9.4 6.4,8 8,8 Z" />
+    <!-- Terminal Screen Display (Blue) -->
+    <path
+        android:fillColor="#0866D8"
+        android:pathData="M9,12 L39,12 L39,26 L9,26 Z" />
+    <!-- Stand -->
+    <path
+        android:strokeColor="#09265B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M24,33 L24,40 M16,40 L32,40" />
+    <!-- Bill / Receipt Tape coming out -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,18 L36,18 L36,36 L34,34 L32,36 L30,34 L28,36 L26,34 Z" />
+    <path
+        android:strokeColor="#09265B"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M26,18 L36,18 L36,36 L34,34 L32,36 L30,34 L28,36 L26,34 Z" />
+    <!-- Lines on Receipt -->
+    <path
+        android:strokeColor="#E5232E"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M28,22 L34,22 M28,26 L34,26 M28,30 L32,30" />
+</vector>

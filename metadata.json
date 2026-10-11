@@ -1,0 +1,6 @@
+{
+  "name": "MADLY SERVICES",
+  "description": "Your One-Stop Solution Partner for Insurance, Network Maintenance, CCTV Security, Router Sales & Services, and Restaurant Billing Software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

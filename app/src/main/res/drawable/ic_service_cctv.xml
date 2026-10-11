@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Camera Mount / Arm -->
+    <path
+        android:strokeColor="#09265B"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M6,10 L16,10 L22,18" />
+    <!-- Camera Housing -->
+    <path
+        android:fillColor="#EBF3FE"
+        android:pathData="M16,17 L38,13 L40,29 L16,27 Z" />
+    <path
+        android:strokeColor="#09265B"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M16,17 L38,13 L40,29 L16,27 Z" />
+    <!-- Camera Lens Hood / Front Glass -->
+    <path
+        android:fillColor="#0866D8"
+        android:pathData="M38,13 L44,12 L44,30 L40,29 Z" />
+    <!-- Lens Core -->
+    <path
+        android:fillColor="#E5232E"
+        android:pathData="M44,21 A2,2 0 1,1 43.9,21" />
+    <!-- Recording indicator LED -->
+    <path
+        android:fillColor="#E5232E"
+        android:pathData="M24,20 A1.5,1.5 0 1,1 23.9,20" />
+    <!-- Infrared / Surveillance Signal waves -->
+    <path
+        android:strokeColor="#0866D8"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,35 C36,37 40,36 43,33" />
+    <path
+        android:strokeColor="#0866D8"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M28,40 C35,43 42,42 46,37" />
+</vector>

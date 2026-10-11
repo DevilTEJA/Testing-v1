@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Server Switch Box -->
+    <path
+        android:fillColor="#EBF3FE"
+        android:pathData="M6,10 L42,10 C44,10 45,11 45,13 L45,21 C45,23 44,24 42,24 L6,24 C4,24 3,23 3,21 L3,13 C3,11 4,10 6,10 Z" />
+    <path
+        android:strokeColor="#09265B"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M6,10 L42,10 C44,10 45,11 45,13 L45,21 C45,23 44,24 42,24 L6,24 C4,24 3,23 3,21 L3,13 C3,11 4,10 6,10 Z" />
+    <!-- Ports and LEDs -->
+    <path
+        android:fillColor="#20B965"
+        android:pathData="M8,17 A2,2 0 1,1 7.9,17" />
+    <path
+        android:fillColor="#0866D8"
+        android:pathData="M14,15 L18,15 L18,19 L14,19 Z" />
+    <path
+        android:fillColor="#0866D8"
+        android:pathData="M22,15 L26,15 L26,19 L22,19 Z" />
+    <path
+        android:fillColor="#E5232E"
+        android:pathData="M30,15 L34,15 L34,19 L30,19 Z" />
+    <!-- Network Bus Cable & Nodes -->
+    <path
+        android:strokeColor="#0866D8"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M24,24 L24,34 M10,34 L38,34 M10,34 L10,39 M38,34 L38,39" />
+    <!-- Nodes -->
+    <path
+        android:fillColor="#09265B"
+        android:pathData="M10,41 A3,3 0 1,1 9.9,41" />
+    <path
+        android:fillColor="#09265B"
+        android:pathData="M38,41 A3,3 0 1,1 37.9,41" />
+</vector>

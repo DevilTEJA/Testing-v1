@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Shield Base -->
+    <path
+        android:fillColor="#EBF3FE"
+        android:pathData="M24,4 L40,11 L40,24 C40,33.5 33.2,42.2 24,45 C14.8,42.2 8,33.5 8,24 L8,11 L24,4 Z" />
+    <path
+        android:strokeColor="#0866D8"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M24,4 L40,11 L40,24 C40,33.5 33.2,42.2 24,45 C14.8,42.2 8,33.5 8,24 L8,11 L24,4 Z" />
+    <!-- Umbrella / Protection Arch inside shield -->
+    <path
+        android:fillColor="#E5232E"
+        android:pathData="M24,14 C17.4,14 14,19 14,23 L34,23 C34,19 30.6,14 24,14 Z" />
+    <!-- Umbrella Handle -->
+    <path
+        android:strokeColor="#09265B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M24,23 L24,31 C24,32.5 22.5,33.5 21,33.5 C19.5,33.5 18.5,32.5 18.5,31" />
+</vector>
